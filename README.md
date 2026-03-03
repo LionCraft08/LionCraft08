@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Ich bin Leon, Hobby-Developer mit Fokus auf Minecraft</h2>
+<h2 align="left">Minecraft Plugin and Laravel Web Developer</h2>
 
 ###
 
